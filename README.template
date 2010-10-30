@@ -1,0 +1,14 @@
+`contradiction`
+===============
+
+Routines to compare dictionaries.
+
+For now at least, this library consists of just the function `contradiction`.
+
+$docs
+
+License
+-------
+
+`contradiction` is licensed under the FreeBSD license.
+See the file COPYING for details.
